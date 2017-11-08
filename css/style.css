@@ -222,19 +222,19 @@ a.active,
 }
 
 .ba-services-list__icon--cart {
-	background: url(../img/cart.png) no-repeat 50%;
+	background: url(../img/cart.svg) no-repeat 50%;
 }
 
 .ba-services-list__icon--hand {
-	background: url(../img/hand.png) no-repeat 50%;
+	background: url(../img/hand.svg) no-repeat 50%;
 }
 
 .ba-services-list__icon--earth {
-	background: url(../img/earth.png) no-repeat 50%;
+	background: url(../img/earth.svg) no-repeat 50%;
 }
 
 .ba-services-list__icon--carrot {
-	background: url(../img/carrot.png) no-repeat 50%;
+	background: url(../img/carrot.svg) no-repeat 50%;
 }
 
 .ba-services__title {
