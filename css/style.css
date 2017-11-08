@@ -245,3 +245,30 @@ a.active,
 	padding: 220px 0 220px 24px;
 	margin: 0;
 }
+
+.ba-gallery {
+	background-color: #ffe92f;
+	padding: 90px 0 120px;
+	text-align: center;
+
+}
+
+.ba-gallery__title {
+	margin: 0 0 20px;
+	font-size: 90px;
+	font-weight: 700;
+}
+
+.ba-gallery__info {
+	max-width: 580px;
+	margin: 0 auto 40px;
+}
+
+.ba-button--gallery {
+	background-color: #5585a2;
+	margin-top: 50px;
+}
+
+.ba-gallery [src*="gallery"] {
+	box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.5);
+}
