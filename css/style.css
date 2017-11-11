@@ -39,6 +39,7 @@ button,
 	padding: 0 25px;
 	text-transform: uppercase;
 	text-decoration: none;
+	cursor: pointer;
 }
 
 input[type="submit"]:hover,
